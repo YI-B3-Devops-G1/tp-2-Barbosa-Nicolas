@@ -1,0 +1,22 @@
+{
+  "name": "tp2-barbosa-nicolas",
+  "version": "1.0.0",
+  "description": "mail: nicolas.barbosa@ynov.com github_username: nicolasbarb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YI-B3-Devops-G1/tp-2-Barbosa-Nicolas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YI-B3-Devops-G1/tp-2-Barbosa-Nicolas/issues"
+  },
+  "homepage": "https://github.com/YI-B3-Devops-G1/tp-2-Barbosa-Nicolas#readme"
+}
