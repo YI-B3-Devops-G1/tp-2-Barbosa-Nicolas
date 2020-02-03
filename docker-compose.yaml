@@ -1,11 +1,13 @@
 version: "3.1"
 services:
     nginx:
-        build: 
+        build:
             context: ./nginx
-            dockerfile: Dockerfile 
+            dockerfile: Dockerfile
+        depends_on:
+            - api
         container_name: nginx
-        ports: 
+        ports:
             - 3000:3000
 
 
